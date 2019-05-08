@@ -13,7 +13,7 @@ def first_element(array)
 end
 
 def third_element(array)
-  array[0][3]
-  @array=array
+  
+  @array=array[2]
 end
   
